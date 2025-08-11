@@ -11,7 +11,4 @@ A simple and responsive **To-Do List** application built with **HTML**, **CSS**,
 - **Schedule Tasks**: Optionally assign a time or date to each task for reminders/organization.
 - **Responsive Design**: Flexible layout that adapts well on desktop and mobile devices.
 
----
-
-##  Project Structure
 
